@@ -1,6 +1,6 @@
 # evoptima.github.io
 evoptima.com webpage source
 
-Continue to [index.md] to see the root page.
+Continue to [index.md](index.md) to see the root page.
 
-Or learn more about [jekyll](https://jekyllrb.com/) [minima template](https://github.com/jekyll/minima).
+Or learn more about [jekyll](https://jekyllrb.com/) or [minima template](https://github.com/jekyll/minima).
