@@ -1,2 +1,3 @@
-# mnrk.github.io
-# mnrk.github.io
+# EVOPTIMA
+![](images/sparta.jpeg)
+This is Pidlotronic!
